@@ -1,0 +1,29 @@
+{
+  "latestId": 7,
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2026/05/22",
+      "description": "lunch",
+      "amount": "20"
+    },
+    {
+      "id": 4,
+      "date": "2026/05/26",
+      "description": "cinema",
+      "amount": "40"
+    },
+    {
+      "id": 6,
+      "date": "2026/05/29",
+      "description": "flower",
+      "amount": 200
+    },
+    {
+      "id": 7,
+      "date": "2026/05/29",
+      "description": "flower",
+      "amount": 300
+    }
+  ]
+}
