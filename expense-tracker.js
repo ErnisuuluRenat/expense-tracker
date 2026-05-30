@@ -101,18 +101,18 @@ function expenseTracker() {
     }
 }
 
-const data = [
-    {name : "John doe", email: "john@example.com"},
-    {name : "John doe", email: "john@example.com"}
-]
+// const data = [
+//     {name : "John doe", email: "john@example.com"},
+//     {name : "John doe", email: "john@example.com"}
+// ]
 
 expenseTracker()
 
-const ws = fs.createWriteStream('./output.csv')
-const csvStream = format({headers:true})
+// const ws = fs.createWriteStream('./output.csv')
+// const csvStream = format({headers:true})
 
-csvStream.pipe(WriteStream)
+// csvStream.pipe(WriteStream)
 
-csvStream.write(data)
+// csvStream.write(data)
 
-csvStream.end()
+// csvStream.end()
