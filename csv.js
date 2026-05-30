@@ -1,2 +1,1 @@
-
-console.log("what")
+console.log("First line of code")
